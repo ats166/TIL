@@ -124,7 +124,7 @@ ___
 
 ## keyword : Git, Github
 
->![git](https://github.com/ats166/TIL/blob/main/github.png)
+>![git](https://github.com/ats166/TIL/blob/main/git.png)
 >
 >## git 
 >
@@ -139,7 +139,7 @@ ___
 >
 >### github
 >
->![github](C:\Users\multicampus\Downloads\github.png)
+>![github](https://github.com/ats166/TIL/blob/main/github.png)
 >
 >
 >
@@ -153,7 +153,7 @@ ___
 >
 >**CLI** : 명령어를 통해 사용자와 컴퓨터가 상호 작용하는 방식
 >
->![gui-operating-system4](C:\Users\multicampus\Desktop\gui-operating-system4.png)
+>![gui-operating-system4](https://github.com/ats166/TIL/blob/main/gui-operating-system4.png)
 >
 >​																										[출처 : GUI Operating System](https://www.javatpoint.com/gui-operating-system)
 >
