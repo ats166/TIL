@@ -124,7 +124,7 @@ ___
 
 ## keyword : Git, Github
 
->![git](C:\Users\multicampus\Desktop\git.png)
+>![git](https://github.com/ats166/TIL/blob/main/github.png)
 >
 >## git 
 >
